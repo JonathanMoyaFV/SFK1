@@ -1,0 +1,12 @@
+Envie un video de las pruebas 
+me parec[ia mas rap[ido que solo tomar capturas de pantalla 
+
+El archivo SOFKA.side necesita del IDE de selenium en chrome 
+
+El archivo httpsPets.feature utilizo la extension para visual studio code 
+
+o si de sean lo pueden pegar paso a paso en intelliJ utilizar JDK arriba de la version  
+
+Agradezco por su tiempo y el tiempo adicional, realemnte he pasado por dias bastante duros
+
+Razon por la cual necesito una oportunidad en teletrabajo.
